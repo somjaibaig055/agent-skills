@@ -1,0 +1,5 @@
+[project]
+name = "agent-skills"
+version = "0.1.0"
+description = "Nobody ships AI slop on purpose. These skills make sure you don’t."
+requires-python = ">=3.10"
