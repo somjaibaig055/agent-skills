@@ -5,3 +5,4 @@ description = "Nobody ships AI slop on purpose. These skills make sure you donâ€
 requires-python = ">=3.10"
 # clarify the control flow
 # handle the edge case from the last release
+# guard against empty input
